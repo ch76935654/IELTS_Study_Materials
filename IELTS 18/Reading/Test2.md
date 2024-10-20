@@ -1,3 +1,171 @@
+# Reading Passage 1
+
+## 一、生词
+
+**fashion** *v.（尤指用手工）制作，塑造（名词含义“时尚，流行”更常用）*
+
+**haul** *v.（用力）拖，拉，拽*
+
+**assemble** *v.组装；聚集*
+
+**demonstrate** *v.证明，证实*
+
+**operate** *v.起作用；运转；工作*
+
+**phase** *n.阶段，时期*
+
+**indicate** *v.提示，表明*
+
+**criticism** *n.批评*
+
+---
+
+**archaeologist** *n.考古学家*
+
+**mystery** *n.神秘，奥秘*
+
+**estimate** *v.估计*
+
+**erect** *v.竖立*
+
+**comprise** *v.包括；构成*
+
+**iconic** *adj.标志性的；偶像的*
+
+**ruin** *n.废墟*
+
+**primitive** *adj.原始的；简陋的*
+
+---
+
+**antler** n.鹿角
+
+**ditch** n.壕沟，沟渠
+
+**pit** n.坑
+
+**timber** n.木料
+
+**post** n.柱子
+
+**hoist** v.拉起，吊起，提升
+
+**sophisticated** adj.发达的，完善的
+
+**long-standing** adj.由来已久
+
+---
+
+**sledge** n.雪撬
+
+**lug** v.用力拉或拖
+
+**boulder** n.大石块
+
+**raft** n.筏子
+
+**float** v.漂流
+
+**tow** v.牵引，拖，拉
+
+**vessel** n.船只；血管
+
+**hypothesis** n.假设，假说
+
+---
+
+**wicker** adj. 枝条编的
+
+**bearing** n.轴承
+
+**groove** n.凹槽；v.形成沟槽
+
+**plank** n.厚木板
+
+**industrious** adj.辛勤的，努力工作的
+
+**glacier** n.冰川
+
+**sceptical** adj.怀疑的
+
+**slab** n.平板，厚板
+
+---
+
+**crescent**  n.新月形，月牙形
+
+**reveal** v.揭示
+
+**religious** adj.宗教的
+
+**judicial** adj.司法的
+
+**political** adj.政治的
+
+**unearth** v.发掘
+
+**grave** n.坟墓
+
+**solstice **n.（夏或冬）至日
+
+---
+
+**inhabit** v.居住
+
+**distinct** adj.不同的
+
+**tribe** n.部落
+
+**undertake** v.承担
+
+**artefact** n.手工艺品
+
+**indigenous** adj.土生土长的，当地的
+
+**continent** n.大陆
+
+**maintain** v.认为；维持
+
+---
+
+**descend from** 是...的后代
+
+**consensus** n.共识，一致看法
+
+**burial** n.埋葬
+
+**astronomer** n.天文学家
+
+**cluster** n.群
+
+**megalithic **adj.巨石的
+
+**correspond** v.对应
+
+**astrological** adj.占星学的
+
+---
+
+**phenomena** *n.*现象（phenomenon 的复数）
+
+**equinox** n.春分，秋分
+
+**eclipse** n.日食，月食
+
+**considerable** adj.相当可观的；（人）显要的，值得尊敬的
+
+**critic** n.批评家
+
+**dense** adj.浓厚的
+
+**obscure** v. 遮掩，遮蔽
+
+**speculate** v.设想，猜测
+
+**curative** adj.有疗效的，可治愈的
+
+
+
 # Reading Passage 2
 
 ## 一、生词
@@ -142,6 +310,8 @@
 
 **Renaissance** *n.文艺复兴*
 
+---
+
 **embody** *v.体现；包含*
 
 **transition** *n.过渡，变迁*
@@ -157,6 +327,8 @@
 **pestilence** *n.瘟疫*
 
 **urban** *adj. 都市的*
+
+---
 
 **excessive** *adj. 过度的，过多的*
 
@@ -174,6 +346,8 @@
 
 **reconfiguration** *n. 重新配置；重新组合*
 
+---
+
 **expansion** *n. 扩展*
 
 **medieval** *adj. 中世纪的*
@@ -189,6 +363,8 @@
 **Innovative** adj.创新的
 
 **spacious** *adj. 宽敞的，空间足的*
+
+---
 
 **battlement** *n.城垛；有枪眼的防御墙*
 
@@ -206,6 +382,8 @@
 
 **hydraulic** *adj.液压的，水压的*
 
+---
+
 **regulate** *v.管理*
 
 **adjacent** *adj. 邻近的*
@@ -220,6 +398,23 @@
 
 **ventilated** *adj. 通风的*
 
-**boulevard** n.大道，大路
+**boulevard** *n.大道，大路*
 
-**valid** adj.有效的，合理的
+---
+
+**valid** *adj.有效的，合理的*
+
+**subdivision** *n.细分；分部；供出卖而分成的小块土地*
+
+**well-ventilated** *adj.通风良好的*
+
+**integrate** *v.（使）合并，成为一体；（使）加入，融入群体；*
+
+**unconventional ** *adj.*非常规的，不依惯例的；（人、态度、行为）不遵循传统的，标新立异的
+
+## 二、正确率
+
+**6/14**
+
+
+
