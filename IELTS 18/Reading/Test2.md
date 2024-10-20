@@ -125,3 +125,101 @@
 # Reading Passage 3
 
 ## 一、生词
+
+**neat** *adj.整齐有序的，有条理的*
+
+**exterior** *n . 外部，外观 adj. 外部的，外面的*
+
+**expertise** *n.专门知识，专业技能*
+
+**radical** *adj. 根本的，彻底的；激进的，极端的；全新的*
+
+**catastrophe** *n.灾难；不幸事件*
+
+**unfulfilled** *adj. 未满足的（动词 fulfill 的变体）*
+
+**renovation** *n. 修复；翻新*
+
+**Renaissance** *n.文艺复兴*
+
+**embody** *v.体现；包含*
+
+**transition** *n.过渡，变迁*
+
+**plague** *n.瘟疫*
+
+**cusp** *n.两曲线相交的尖点*
+
+**crisis** *n.危机*
+
+**displacement** *n.移位，取代*
+
+**pestilence** *n.瘟疫*
+
+**urban** *adj. 都市的*
+
+**excessive** *adj. 过度的，过多的*
+
+**renowned** *adj. 著名的*
+
+**discipline** *n.学科，科目*
+
+**rigour** *n.严格；艰苦*
+
+**conscious** *adj.有意识的，神志清醒的*
+
+**conception** *n. 概念*
+
+**prominent** *adj. 重要的，杰出的*
+
+**reconfiguration** *n. 重新配置；重新组合*
+
+**expansion** *n. 扩展*
+
+**medieval** *adj. 中世纪的*
+
+**winding**  adj. 蜿蜒曲折的
+
+**coordinated** adj. 协调的
+
+**disordered** adj.混乱的
+
+**sketch** n.草图
+
+**Innovative** adj.创新的
+
+**spacious** *adj. 宽敞的，空间足的*
+
+**battlement** *n.城垛；有枪眼的防御墙*
+
+**rational** *adj.理智的*
+
+**consistent** *adj.连贯的，一致的*
+
+**interior** *αdj. 内部的*
+
+**implement** *v. 实施，执行*
+
+**originality** *n.创意，创新性*
+
+**fusion** *n.融合*
+
+**hydraulic** *adj.液压的，水压的*
+
+**regulate** *v.管理*
+
+**adjacent** *adj. 邻近的*
+
+**contemporary** *adj.当代的；同时代的*
+
+**compact** *adj.紧凑的*
+
+**thoroughly** *adv. 彻底地*
+
+**infrastructure** *n.基础设施*
+
+**ventilated** *adj. 通风的*
+
+**boulevard** n.大道，大路
+
+**valid** adj.有效的，合理的
