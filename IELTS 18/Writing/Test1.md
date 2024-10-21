@@ -1,0 +1,5 @@
+# Writing Task 1
+
+## 1. My Writing
+
+In recent years,Philippines,Malaysia,Thailand and Indonesia,their percentage of the population living in cities have been growing.But they have obviously different rising types.Philippines is started from above 30%,and down to almost 40% when it is closed to 50%,and continue to keep rising.Malaysia is started from 30%,and always keeps a fast speed rising, which is gradually in slow speed.Thailand is started from below 20% and relatively presented in a slow rising speed and in a stable status.Indonesia is started from above 10% that is a shortest level and keep a high speed rising.With prediction data, they will keep rising and turn to a slow and steady speed, but Thailand,which will be in a very high speed.To be concluded, these countries's percentage of the population living in cities all will grow, and it can't be stopped. It is revealed that people from all the countries live in compact.
