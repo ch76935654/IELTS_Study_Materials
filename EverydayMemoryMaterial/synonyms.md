@@ -33,3 +33,46 @@ gather / assemble / cluster
 V. 拖，拉
 
 pull / drag / draw / tug / haul / tow
+
+n. 阶段
+
+stage / phase
+
+n.谜
+
+mystery / puzzle / enigma / riddle
+
+n. 估价
+
+quote / estimate
+
+v. 估算
+
+estimate / assess / reckon / approximate
+
+v. 建造
+
+build / construct / put up / erect
+
+v. 包括
+involve / include / cover / contain / incorporate / comprise / encompass /
+consist of / embrace
+
+V. 构成，组成
+make up / compose / comprise / constitute
+
+v. 毁坏，毁掉
+
+destroy / ruin / wreck / devastate / spoil / extinguish
+
+adj.原始的
+
+primitive / primal 反义 modern
+
+adj.落后的
+
+primitive / backward 反义 advanced
+
+n.沟，渠
+
+trench / ditch / channel
