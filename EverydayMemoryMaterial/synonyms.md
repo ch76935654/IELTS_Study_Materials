@@ -171,3 +171,62 @@ insist / assert / maintain
 ## v. 下降
 
 descend / 反义 ascend
+
+## n.一致看法
+
+agreement / consensus
+
+## adj. 当地的
+
+local / native / indigenous
+
+## V. 群集，聚集
+
+gather / assemble / cluster
+
+## V. 相符合，相一致
+
+match / agree / correspond / accord
+
+## adj. 相当多的，相当大的
+
+big / large / great / vast / enormous / immense / tremendous / gigantic /
+sizable / considerable / significant / substantial / extensive / colossal /
+massive / mountainous / giant / monster / mighty
+
+## n.评论家
+
+critic / commentator
+
+## adj. 密集的
+
+dense / thick
+
+## n. 目标
+
+aim / goal / target / objective / end / object
+
+## adj. 客观的
+
+objective / 反义 subjective
+
+## n. 缺点，短处
+
+fault / defect / deficiency / disadvantage / drawback / shortcoming /
+downside / minus
+
+## n. 可能性
+
+possibility / probability / chance / likelihood / prospect / potential / odds
+
+## n. 展望
+
+prospect / outlook
+
+## n.前景，前途
+
+future / prospect
+
+## v. 分配
+
+allocate / assign

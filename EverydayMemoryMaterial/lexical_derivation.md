@@ -160,3 +160,87 @@ descended adj. 是..的后裔的
 descendant n. 后裔；衍生物
 descent n. 下降，降落；血统
 descending adj. 递降的；下降的
+
+## consensus
+
+consent n. 许可，准许
+consensus n. 共识
+consensual adj. 一致同意的
+
+## cluster
+
+cluster n. 群，簇v.聚集
+clustered adj.成群的，成簇的
+
+## correspond
+
+correspond v. 相符合；相当；通信
+corresponding adj. 相似的；相应的
+correspondence n. 通信；关系，联系
+
+## astrology
+
+astrology n. 占星术
+astrological adj. 占星术的
+astrologer n. 占星家
+
+## consider
+
+consider v. 考虑；体谅
+
+considerate adj.体贴的，考虑周到的
+
+considerable adj. 相当多的，相当大的
+considerably adv. 非常，相当多地
+considered adj. 深思熟虑的
+considering prep.conj. 考虑到，鉴于
+consideration n. 须考虑的因素；体谅
+
+## critic
+
+critic n. 评论家；批评者
+critical adj. 批判的；关键的
+criticism n. 批评；评论
+critically adv. 严重地；批判性地
+criticize v. 批评，指责
+
+## dense
+
+dense adj. 密集的；密度大的
+density n. 密度
+densely adv. 密集地，稠密地
+
+## obscure
+
+obscure adj. 鲜为人知的；费解的v.使模糊，使隐晦
+obscurity n. 默默无闻；晦涩难懂
+obscurely adv. 含糊地；模糊地
+
+## like
+
+like v.喜欢 prep.像
+likely adj. 可能的
+unlikely adj. 不太可能的
+likelihood n. 可能性
+unlike prep. 与….不同
+dislike v. 不喜爱
+liking n. 喜好，爱好
+alike adj. 相似的
+likewise adv. 相似地
+likeness n. 相似
+
+## object
+
+object n. 物体 v. 反对
+objective adj. 客观的
+objectively adv. 客观地
+objectivity n. 客观性
+objection n. 反对的理由
+objectify v. 将.物化
+
+## discriminate
+
+discriminate v. 歧视；区分
+discrimination n. 歧视；鉴别力；区别
+indiscriminate adj. 不加区分的
+discriminating adj. 有鉴别能力的
