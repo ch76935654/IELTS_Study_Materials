@@ -230,3 +230,19 @@ future / prospect
 ## v. 分配
 
 allocate / assign
+
+## **v. 刺入，插入**
+
+stick / pierce / insert
+
+## V. 卡住
+
+stick / jam / lodge
+
+## v. 处理
+
+deal / cope with / handle / tackle / address / attend to / sort out / approach
+
+## n. 限制
+
+limitation / control / constraint / restriction / curb
